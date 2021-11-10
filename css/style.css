@@ -5,8 +5,8 @@ body
 
 #main
 {
-	h!eight: 100px;
-	width : 600px;
+	aheight: 100px;
+	awidth : 600px;
 	border: 1px solid black;
 	background-image: url("../site/bg.png");
 }

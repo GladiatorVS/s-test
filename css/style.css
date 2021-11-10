@@ -1,0 +1,19 @@
+body
+{
+	margin:0;
+}
+
+#main
+{
+	h!eight: 100px;
+	width : 400px;
+	border: 1px solid black;
+	background-image: url("../site/bg.png");
+}
+.obj
+{
+	margin-left: 15px;
+	margin-right: 15px;
+	color: white;
+	font-family: "Gill Sans", sans-serif;
+}
